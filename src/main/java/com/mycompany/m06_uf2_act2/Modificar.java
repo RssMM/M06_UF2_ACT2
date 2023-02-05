@@ -17,8 +17,8 @@ public class Modificar {
     
     public static void main(String[] args) {
         
-         //getFilmsInterval();
-        //getFilmsByDirector();
+        getFilmsInterval();
+        getFilmsByDirector();
         insertNewFilm();
     }
     
